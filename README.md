@@ -1,4 +1,4 @@
 # demo-repo
-# world
+# World
 # Sky
 # Ocean
